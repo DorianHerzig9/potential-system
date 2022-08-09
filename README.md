@@ -31,3 +31,4 @@ Und ~~ich~~ weiß, `dass` mein Herz weitergehen wird
 Wir werden für immer so bleiben
 *`Du` bist sicher in meinem Herzen und
 Mein Herz wird weiter und weiter gehen*
+![image](https://user-images.githubusercontent.com/110893245/183611904-7ea8eb7f-0762-451a-9d2c-b44020af1668.png)
