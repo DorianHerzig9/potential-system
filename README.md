@@ -1,8 +1,8 @@
 # Erster ~~richtiger~~ Text
 
 Jede Nacht in meinen `Träumen`
-~~Ich~~ sehe dich, ~~ich~~ fühle dich
-Daher weiß ~~ich~~, `dass` `du` weitergehst
+~~Ich~~ sehe dich, ~~ich~~ fühle `dich`
+`Daher` weiß ~~ich~~, `dass` `du` weitergehst
 Weit über `die` Entfernung
 Und den Raum zwischen uns
 `Du` bist gekommen, um zu zeigen, `dass` `du` weitergehst
@@ -18,7 +18,7 @@ Liebe war, als ich `dich` liebte
 Eine wahre Zeit, an `der` ~~ich~~ mich festhalten würde
 In meinem Leben, wir werden immer weitergehen
 **Nah, fern, wo immer `du` bist
-~~Ich~~ glaube, `dass` `das` Herz weitergeht (warum geht das Herz weiter?)
+~~Ich~~ glaube, `dass` `das` Herz weitergeht (warum geht `das` Herz weiter?)
 Noch einmal**, `du` öffnest `die` `Tür`
 Und `du` bist hier in meinem Herzen
 Und mein Herz wird weitergehen und weitergehen
