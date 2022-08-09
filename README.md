@@ -1,5 +1,9 @@
 # Erster ~~richtiger~~ Text
 
+## Titanik-Song auf Deutsch 
+## Überstrichen: Wörter mit D, Wörter mit T
+## Weggelassene Wörter: Ich
+
 Jede Nacht in meinen `Träumen`
 ~~Ich~~ sehe dich, ~~ich~~ fühle `dich`
 `Daher` weiß ~~ich~~, `dass` `du` weitergehst
